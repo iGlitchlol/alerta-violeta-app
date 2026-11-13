@@ -1,5 +1,7 @@
 # Alerta Violeta Colima
 
+> Este proyecto tiene dos partes: la **app móvil** (este repo) y la **página web + API**: [iGlitchlol/Verduzco2](https://github.com/iGlitchlol/Verduzco2) · [sitio en vivo](https://verduzco2.vercel.app).
+
 Aplicación móvil hecha en **Flutter** para reportar incidentes de violencia de género en Colima, ver en un mapa dónde ocurren y encontrar información y apoyo.
 
 ## Funcionalidades
