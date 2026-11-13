@@ -38,7 +38,7 @@ class _MapScreenState extends State<MapScreen> {
 
   // 🔥 Cargar datos desde API
   Future<void> loadReports() async {
-    final url = Uri.parse("https://verduzco2.vercel.app/api/report");
+    final url = Uri.parse("https://alerta-violeta-web.vercel.app/api/report");
 
     final response = await http.get(url);
     final data = jsonDecode(response.body);

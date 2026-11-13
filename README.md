@@ -1,6 +1,6 @@
 # Alerta Violeta Colima
 
-> Este proyecto tiene dos partes: la **app móvil** (este repo) y la **página web + API**: [alerta-violeta-web](https://github.com/iGlitchlol/alerta-violeta-web) · [sitio en vivo](https://verduzco2.vercel.app).
+> Este proyecto tiene dos partes: la **app móvil** (este repo) y la **página web + API**: [alerta-violeta-web](https://github.com/iGlitchlol/alerta-violeta-web) · [sitio en vivo](https://alerta-violeta-web.vercel.app).
 
 Aplicación móvil hecha en **Flutter** para reportar incidentes de violencia de género en Colima, ver en un mapa dónde ocurren y encontrar información y apoyo.
 
@@ -31,7 +31,7 @@ Aplicación móvil hecha en **Flutter** para reportar incidentes de violencia de
 
 ## Backend
 
-La app consume la API `https://verduzco2.vercel.app/api/report` (función serverless en Vercel), que guarda y devuelve los reportes.
+La app consume la API `https://alerta-violeta-web.vercel.app/api/report` (función serverless en Vercel), que guarda y devuelve los reportes.
 Código del backend y la página web: [alerta-violeta-web](https://github.com/iGlitchlol/alerta-violeta-web).
 
 ## Estructura

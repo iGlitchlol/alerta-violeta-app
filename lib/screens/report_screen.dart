@@ -77,7 +77,7 @@ class _ReportScreenState extends State<ReportScreen> {
     setState(() => isSending = true);
 
     try {
-      final url = Uri.parse("https://verduzco2.vercel.app/api/report");
+      final url = Uri.parse("https://alerta-violeta-web.vercel.app/api/report");
       String? base64Image;
 
       if (image != null) {
