@@ -4,6 +4,15 @@
 
 Aplicación móvil hecha en **Flutter** para reportar incidentes de violencia de género en Colima, ver en un mapa dónde ocurren y encontrar información y apoyo.
 
+## Capturas
+
+<p align="center">
+  <img src="screenshots/1-inicio.png" width="200" alt="Pantalla de inicio">
+  <img src="screenshots/2-menu.png" width="200" alt="Menú lateral">
+  <img src="screenshots/3-reporte.png" width="200" alt="Formulario de nuevo reporte">
+  <img src="screenshots/4-guia.png" width="200" alt="Guía y números de emergencia">
+</p>
+
 ## Funcionalidades
 
 - **Nuevo reporte**: toma la ubicación GPS del dispositivo y permite elegir una categoría (p. ej. acoso), escribir una descripción y adjuntar una foto con la cámara. El reporte se envía a una API REST.
