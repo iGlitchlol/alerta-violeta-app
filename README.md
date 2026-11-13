@@ -1,6 +1,6 @@
 # Alerta Violeta Colima
 
-> Este proyecto tiene dos partes: la **app móvil** (este repo) y la **página web + API**: [iGlitchlol/Verduzco2](https://github.com/iGlitchlol/Verduzco2) · [sitio en vivo](https://verduzco2.vercel.app).
+> Este proyecto tiene dos partes: la **app móvil** (este repo) y la **página web + API**: [alerta-violeta-web](https://github.com/iGlitchlol/alerta-violeta-web) · [sitio en vivo](https://verduzco2.vercel.app).
 
 Aplicación móvil hecha en **Flutter** para reportar incidentes de violencia de género en Colima, ver en un mapa dónde ocurren y encontrar información y apoyo.
 
@@ -23,7 +23,7 @@ Aplicación móvil hecha en **Flutter** para reportar incidentes de violencia de
 ## Backend
 
 La app consume la API `https://verduzco2.vercel.app/api/report` (función serverless en Vercel), que guarda y devuelve los reportes.
-Código del backend y la página web: [iGlitchlol/Verduzco2](https://github.com/iGlitchlol/Verduzco2).
+Código del backend y la página web: [alerta-violeta-web](https://github.com/iGlitchlol/alerta-violeta-web).
 
 ## Estructura
 
@@ -44,8 +44,8 @@ lib/
 Requisitos: [Flutter SDK](https://docs.flutter.dev/get-started/install) 3.38+ y un dispositivo Android (o un emulador).
 
 ```bash
-git clone https://github.com/iGlitchlol/alertavioleta.git
-cd alertavioleta
+git clone https://github.com/iGlitchlol/alerta-violeta-app.git
+cd alerta-violeta-app
 flutter pub get
 flutter run
 ```
